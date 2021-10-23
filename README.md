@@ -8,4 +8,4 @@ todo!
 
 ## License
 
-MIT
+[MIT](https://github.com/RealCyGuy/neon-hexagon-forming-particles-LIVELY-WALLPAPER/blob/main/LICENSE.md)
