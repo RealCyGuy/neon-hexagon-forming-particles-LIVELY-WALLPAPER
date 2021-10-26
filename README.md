@@ -4,7 +4,9 @@ Matei Copot's [neon hexagon-forming particles](https://codepen.io/towc/pen/mJzOW
 
 ## Installation
 
-todo!
+Download the .zip from <https://github.com/RealCyGuy/neon-hexagon-forming-particles-LIVELY-WALLPAPER/releases>
+
+Then drag the .zip file to Lively Wallpaper.
 
 ## License
 
